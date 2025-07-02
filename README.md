@@ -51,6 +51,13 @@ This project uses **visible light communication (VLC)** to build a **local acces
 
 ---
 
+## 📚 Research Reference
+
+This project is inspired by the concepts detailed in the paper:  
+**"Security System Using Light Fidelity (Li-Fi)" – IJAResm**  
+🔗 [Read Full Paper](https://www.ijaresm.com/security-system-using-light-fidelity-li-fi?type=issue)
+
+
 ## 👨‍💻 Developed by
 
 **Aditya Garde**  
